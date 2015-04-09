@@ -17,7 +17,7 @@ But no more!
 With this simple script, Wanda is revived.  Just add a "custom launcher" to your
 toolbar, copy ``wanda`` into ``/usr/local/bin``, and enjoy.  You can even add an
 image of Wanda herself to the custom launcher to get closer to what we all
-remember and love. [1]
+remember and love.
 
 Prerequisites
 =============
